@@ -1,0 +1,5 @@
+Controller --> Arduino UNO R3
+Module --> 	1. Motor Driver (L298D)
+		2. Power Driver
+		3. Bluetooth HC05
+Software --> Arduino IDE
